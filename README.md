@@ -1,1 +1,1 @@
-# GIS-Planet
+# GIS Planet
