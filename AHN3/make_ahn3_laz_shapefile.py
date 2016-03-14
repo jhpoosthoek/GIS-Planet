@@ -1,7 +1,12 @@
-# https://pythonadventures.wordpress.com/2010/10/17/check-if-url-exists/
-# http://www.ahn.nl/pagina/open-data.html > http://www.ahn.nl/binaries/content/assets/hwh---ahn/common/ahn_units.zip
-# https://www.pdok.nl/nl/ahn3-downloads
-# https://github.com/jhpoosthoek/Python-shapefile-class
+# Check if URL exists:
+#  - https://pythonadventures.wordpress.com/2010/10/17/check-if-url-exists/
+#
+# AHN3 links:
+#  - http://www.ahn.nl/pagina/open-data.html > http://www.ahn.nl/binaries/content/assets/hwh---ahn/common/ahn_units.zip
+#  - https://www.pdok.nl/nl/ahn3-downloads
+#
+# Prerequisites:
+#  - https://github.com/jhpoosthoek/Python-shapefile-class
 
 from shapefile import shapefile
 import httplib
